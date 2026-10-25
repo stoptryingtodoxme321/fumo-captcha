@@ -1,0 +1,56 @@
+{
+    "characters":  {
+                       "cirno":  {
+                                     "label":  "Cirno",
+                                     "images":  [
+                                                    "cirno_1.webp",
+                                                    "cirno_2.webp",
+                                                    "cirno_3.webp",
+                                                    "cirno_4.jpg",
+                                                    "cirno_5.jpg"
+                                                ]
+                                 },
+                       "marisa":  {
+                                      "label":  "Marisa Kirisame",
+                                      "images":  [
+                                                     "marisa_1.jpg",
+                                                     "marisa_2.webp",
+                                                     "marisa_3.jpg",
+                                                     "marisa_4.jpg"
+                                                 ]
+                                  },
+                       "patchouli":  {
+                                         "label":  "Patchouli Knowledge",
+                                         "images":  [
+                                                        "patchouli_1.jpg",
+                                                        "patchouli_2.jpg",
+                                                        "patchouli_3.webp",
+                                                        "patchouli_4.webp"
+                                                    ]
+                                     },
+                       "reimu":  {
+                                     "label":  "Reimu Hakurei",
+                                     "images":  [
+                                                    "reimu_1.webp",
+                                                    "reimu_2.webp",
+                                                    "reimu_3.jpg",
+                                                    "reimu_4.jpg",
+                                                    "reimu_5.jpg",
+                                                    "reimu_6.jpg",
+                                                    "reimu_7.jpg",
+                                                    "reimu_8.webp",
+                                                    "reimu_9.webp",
+                                                    "reimu_10.jpg",
+                                                    "reimu_11.webp"
+                                                ]
+                                 },
+                       "sakuya":  {
+                                      "label":  "Sakuya Izayoi",
+                                      "images":  [
+                                                     "sakuya_1.jpg",
+                                                     "sakuya_2.jpg",
+                                                     "sakuya_3.webp"
+                                                 ]
+                                  }
+                   }
+}
