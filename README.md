@@ -1,7 +1,6 @@
 # fumo-captcha
 
-A small "click all images of \<character\>" captcha built with PHP 8.1+.
-No dependencies and no build step.
+fumo captcha
 
 ## Download
 
